@@ -55,7 +55,7 @@ const Pin = () => {
   return (
     <div className="pinContainer">
       <div className="pin-section">
-        <div className="logo">
+        <div className="pinlogo">
           <img src={logo} alt="logo" />
         </div>
         <form onSubmit={handleSubmit(submitForm)} className="login-form">
