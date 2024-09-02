@@ -1,3 +1,3 @@
-const BASE_URL = "https://smartbank-server-two.vercel.app";
+const BASE_URL = "https://smartbank-server-beta.vercel.app";
 
 export default BASE_URL;
